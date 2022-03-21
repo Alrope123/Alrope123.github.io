@@ -2,23 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 5th Year Master student at UW
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p><i class="fas fa-envelope"></i> <a href='alrope@cs.washington.edu'>email</a> <i class="fab fa-github"></i> <a href='https://github.com/Alrope123'>github</a> <i class="fab fa-twitter"></i> <a href='https://twitter.com/XinxiLyu'>twitter</a></p>
+    <p></p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a 5th Year Master student at <a href='https://www.cs.washington.edu'>Paul G. Allen School of Computer Science & Engineering</a> at <a href='http://www.washington.edu/'>University of Washington-Seattle</a>. I am studying in natural language processing and machine learning, mentored by <a href='https://shmsw25.github.io/'>Sewon Min</a> in <a href='https://homes.cs.washington.edu/~hannaneh/index.html'>Hannaneh Hajishirzi</a>'s group. My current research focus on few-shot learning.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I received my B.S.in Computer Science at UW in December, 2021.
+
+My Chinese name is written as 吕欣禧, which embodys the meaning of happiness:grin:.
