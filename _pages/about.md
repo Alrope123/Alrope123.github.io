@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p><i class="fas fa-envelope"></i> <a href="mailto:alrope@cs.washington.edu">email</a> <i class="fab fa-github"></i> <a href='https://github.com/Alrope123'>github</a> <i class="fab fa-twitter"></i> <a href='https://twitter.com/XinxiLyu'>twitter</a></p>
+    <p><i class="fas fa-envelope"></i> <a href="mailto:xinxil@allenai.org">email</a> <i class="fab fa-github"></i> <a href='https://github.com/Alrope123'>github</a> <i class="fab fa-twitter"></i> <a href='https://twitter.com/XinxiLyu'>twitter</a></p>
     <p></p>
 
 news: false  # includes a list of news items
