@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Predoctoral Young Investigator @ AI2
+subtitle: First-year PhD at @ UIUC
 
 profile:
   align: right
